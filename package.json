@@ -9,16 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@portabletext/react": "^3.0.15",
+    "@radix-ui/react-slot": "^1.0.2",
     "@sanity/image-url": "^1.0.2",
     "@sanity/vision": "^3.36.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "date-fns": "^3.6.0",
+    "lucide-react": "^0.364.0",
     "next": "14.1.4",
     "next-sanity": "^7.1.0",
     "react": "^18",
     "react-dom": "^18",
     "sanity": "^3.36.0",
-    "styled-components": "^6.1.8"
+    "styled-components": "^6.1.8",
+    "tailwind-merge": "^2.2.2",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.12",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
